@@ -38,7 +38,7 @@ body {
   margin-right: auto;
 }
 #submit{
-  width: 15%;
+  min-width: 15%;
   font-weight: 600;
 }
 
